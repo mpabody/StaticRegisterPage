@@ -1,0 +1,58 @@
+body{
+    background-color: cadetblue;
+    margin: 0;
+    padding: 0;
+}
+.whitespace{
+    text-align: center;
+    background-color: white;
+    height: 400px;
+    width: 350px;
+    display: inline-block;
+    border: 1px outset black;
+    position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+    margin: auto;
+}
+#fb{
+    height: 30px;
+    width: auto;
+}
+#slack{
+    height: 30px;
+    width: auto;
+}
+#insta{
+    height: 30px;
+    width: auto;
+}
+.submit{
+    height: 21px;
+    width: 224px;
+}
+h1 {
+    padding-right: 115px;
+}
+header{
+    background-color: white;
+    height: 45px;
+}
+.aboutus{
+    float: right;
+    margin: 5px;
+    padding: 5px;
+}
+.register{
+    float: right;
+    margin: 5px;
+    padding: 5px;
+}
+.text, .password{
+    width: 220px;
+}
+/* .password{
+    width: 220px;
+} */
